@@ -1,2 +1,2 @@
 # Olympic
-Python program to draw the Olympic games logo, uses PyQt5
+Python program to draw the Olympic rings logo, uses PyQt5
